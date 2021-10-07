@@ -1,5 +1,6 @@
 .GB-pic{
- Background-image: url("https://www.denofgeek.com/wp-content/uploads/2021/10/the-real-ghostbusters-banner.png?fit=1998%2C501&resize=1998%2C501");
+ Background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(25,25,32,0.5284488795518207) 35%, rgba(0,212,255,0) 90%), url("https://www.denofgeek.com/wp-content/uploads/2021/10/the-real-ghostbusters-banner.png?fit=1998%2C501&resize=1998%2C501") ;
+
  background-size: cover;
  background-position: center;
  min-height: 250px;
